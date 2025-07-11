@@ -22,12 +22,13 @@ make
 # Installation
 ## Arch-based distros
 ```sh
-git clone https://github.com/xb-bx/attack-shark-r1-driver
+git clone https://github.com/xb-bx/attack-shark-r1-driver --recursive
 cd attack-shark-r1-driver
 makepkg -si
 ```
 ## Other
 ```sh
+git clone https://github.com/xb-bx/attack-shark-r1-driver --recursive
 sudo make install
 ```
 

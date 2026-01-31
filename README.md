@@ -22,15 +22,18 @@ make
 # Installation
 ## Arch-based distros
 ```sh
-git clone https://github.com/xb-bx/attack-shark-r1-driver --recursive
+git clone https://github.com/Kubixonon/attack-shark-r1-software-linux.git --recursive
 cd attack-shark-r1-driver
 makepkg -si
 ```
+### Insert the attack shark r1 software.py on your Desktop and use!
+
 ## Other
 ```sh
-git clone https://github.com/xb-bx/attack-shark-r1-driver --recursive
+git clone https://github.com/Kubixonon/attack-shark-r1-software-linux.git --recursive
 sudo make install
 ```
+### Insert the attack shark r1 software.py on your Desktop and use!
 
 # Configuration
 
